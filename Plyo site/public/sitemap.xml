@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://plyo.io/</loc><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://plyo.io/services/</loc><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://plyo.io/services/sourcing/</loc><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://plyo.io/services/strategy-call/</loc><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://plyo.io/services/full-production/</loc><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://plyo.io/pricing/</loc><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://plyo.io/case-studies/</loc><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://plyo.io/faq/</loc><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://plyo.io/about/</loc><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://plyo.io/contact/</loc><lastmod>2026-05-18</lastmod><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://plyo.io/privacy/</loc><lastmod>2026-05-18</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+  <url><loc>https://plyo.io/terms/</loc><lastmod>2026-05-18</lastmod><changefreq>yearly</changefreq><priority>0.3</priority></url>
+</urlset>

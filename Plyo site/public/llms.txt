@@ -1,0 +1,26 @@
+# Plyo
+
+> Plyo is procurement infrastructure for European SMEs importing from China. Operated by Mila Sourcing OÜ (Tallinn, Estonia, registry 17403363). We match importers with one of 37 verified sourcing agents across China's manufacturing hubs, then run the full process — direct factory negotiation, bilingual NNN contracts, GPS-verified audits with live video, and 3-stage AQL quality control — inside our WhatsApp-based platform.
+
+## Services
+- /services/sourcing: Sourcing Activation — €425 to match you with a specialist agent and secure 3-5 factory quotes
+- /services/strategy-call: Supply Chain Strategy Call — €290 consultation mapping your full China supply chain
+- /services/full-production: Full Production Management — 5–10% of order volume, end-to-end with legal contracts, GPS audits, 3-stage QC, and logistics
+
+## Who we serve
+Importers buying from China — at any scale, in any category. From founders placing their first production order to operators running multi-SKU supply chains. The common thread isn't industry or revenue. It's the problem: middlemen, quality risk, unenforceable contracts, and zero visibility. Plyo replaces all of that with one infrastructure layer.
+
+## Differentiators
+- Not a middleman: direct factory access through 37 verified agents
+- WhatsApp-native: quotes, milestones, audits, contracts in one chat
+- Legal protection: bilingual NNN agreements before payment
+- Live GPS-verified factory audits with video
+- 3-stage AQL quality control: pre-production, in-production, pre-shipment
+
+## Operating entity
+Mila Sourcing OÜ, Registry Code 17403363, Tallinn, Estonia. Founders: Jörgen Laumets, Thomas Kristjan Danilkin.
+
+## Contact
+- Email: info@plyo.io
+- WhatsApp: primary channel
+- Hours: Mon–Fri 8:00–18:00 CET

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <rect width="1200" height="630" fill="#FAFAF7"/>
+  <rect x="0" y="540" width="1200" height="90" fill="#1F4E3D"/>
+  <text x="80" y="160" font-family="JetBrains Mono, monospace" font-size="22" fill="#6B6B6B" letter-spacing="3" text-transform="uppercase">PROCUREMENT INFRASTRUCTURE</text>
+  <text x="80" y="280" font-family="Inter Tight, system-ui, sans-serif" font-weight="600" font-size="92" fill="#0A0A0A" letter-spacing="-3">Procurement infrastructure</text>
+  <text x="80" y="380" font-family="Inter Tight, system-ui, sans-serif" font-weight="600" font-size="92" fill="#0A0A0A" letter-spacing="-3">for European importers.</text>
+  <text x="80" y="470" font-family="Inter, system-ui, sans-serif" font-size="32" fill="#6B6B6B">Verified agents · Legal protection · Live audits</text>
+  <text x="80" y="595" font-family="Inter Tight, system-ui, sans-serif" font-weight="600" font-size="54" fill="#FAFAF7" letter-spacing="-2">plyo</text>
+  <text x="1120" y="595" font-family="JetBrains Mono, monospace" font-size="16" fill="#FAFAF7" text-anchor="end" letter-spacing="2">plyo.io</text>
+</svg>
