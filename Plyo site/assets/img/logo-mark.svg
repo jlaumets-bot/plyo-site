@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="8 11 84 84"><style>
+  .ms-logo{transform-origin:50px 52px;animation:ms-pop .62s cubic-bezier(.34,1.42,.5,1) both}
+  .ms-check{stroke-dasharray:52.02;stroke-dashoffset:0;animation:ms-draw .58s .40s cubic-bezier(.62,.04,.2,1) both}
+  @keyframes ms-pop{0%{opacity:0;transform:scale(.55)}55%{opacity:1}100%{opacity:1;transform:scale(1)}}
+  @keyframes ms-draw{from{stroke-dashoffset:52.02}to{stroke-dashoffset:0}}
+  @media (prefers-reduced-motion: reduce){.ms-logo{animation:none;opacity:1}.ms-check{animation:none;stroke-dashoffset:0}}</style><g class="ms-logo"><path d="M25 14 L75 14 Q84 14 84 23 L84 52 C84 72 70 82 53.5 89.2 Q50 90.6 46.5 89.2 C30 82 16 72 16 52 L16 23 Q16 14 25 14 Z" fill="#D97757"/><path class="ms-check" d="M33 51 L45 62 L68 38" fill="none" stroke="#FAFAF7" stroke-width="9.2" stroke-linecap="round" stroke-linejoin="round"/></g></svg>
