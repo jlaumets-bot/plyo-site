@@ -193,3 +193,5 @@ a{ color:inherit; }
 .kpi-grid .kpi{ padding:1.5rem; border-right:1px solid var(--rule); border-bottom:1px solid var(--rule); }
 .kpi-grid .kpi .num{ font-family:'JetBrains Mono', monospace; font-size:1.875rem; font-weight:500; color:var(--forest); letter-spacing:-0.02em; }
 .kpi-grid .kpi .lbl{ font-family:'JetBrains Mono', monospace; font-size:0.7rem; text-transform:uppercase; letter-spacing:0.1em; color:var(--mist); margin-top:0.5rem; }
+
+a[aria-label$="home"]::before{content:"";display:inline-block;width:28px;height:28px;margin-right:10px;vertical-align:middle;flex:0 0 auto;background:url("/assets/img/logo-mark.svg") center/contain no-repeat}
